@@ -1,0 +1,591 @@
+2026-10-26 12:21:53,112 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:21:56,170 - INFO - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:21:56,178 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:21:56,182 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:21:56,439 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:26:35,375 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:26:38,443 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:26:38,454 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:26:38,460 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:26:38,655 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:26:41,662 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:26:44,715 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:26:44,721 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:26:44,725 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:26:44,732 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:26:47,737 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:26:50,794 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:26:50,805 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:26:50,809 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:26:50,812 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:26:53,815 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:26:56,874 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:26:56,981 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:26:56,986 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:26:56,989 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:26:59,993 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:27:03,054 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:27:03,063 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:27:03,068 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:27:03,071 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:38:54,129 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:38:57,194 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+NoneType: None
+2026-10-26 12:38:57,200 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:38:57,208 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:38:57,590 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:39:00,595 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:39:03,658 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+NoneType: None
+2026-10-26 12:39:03,671 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:39:03,677 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:39:03,682 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:39:06,687 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:39:09,743 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+NoneType: None
+2026-10-26 12:39:09,747 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:39:09,752 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:39:09,756 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:40:36,424 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:40:39,499 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:40:39,505 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:40:39,510 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:40:39,513 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:40:42,517 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:40:45,579 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:40:45,585 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:40:45,592 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:40:45,598 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:40:48,609 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:40:51,659 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:40:52,687 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:40:52,693 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:40:52,696 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:40:55,702 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:40:58,762 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:40:58,772 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:40:58,782 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:40:58,786 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:41:01,795 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:41:04,874 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:41:04,885 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:41:04,889 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:41:04,895 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:41:07,899 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:41:10,954 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:41:10,963 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:41:10,966 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:41:10,971 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:41:13,977 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:41:17,035 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:41:17,040 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:41:17,043 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:41:17,046 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:41:20,054 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:41:23,114 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:41:23,124 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:41:23,128 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:41:23,131 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:41:26,135 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:41:29,195 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:41:29,200 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:41:29,204 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:41:29,207 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:41:32,214 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:41:35,275 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:41:35,281 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:41:35,284 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:41:35,286 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:41:38,293 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:41:41,355 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:41:41,362 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:41:41,365 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:41:41,368 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:41:44,372 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:41:47,435 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:41:47,441 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:41:47,445 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:41:47,449 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:41:50,459 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:41:53,518 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:41:53,527 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:41:53,532 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:41:53,537 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:41:56,543 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:41:59,594 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:41:59,600 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:41:59,604 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:41:59,606 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:42:02,610 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:42:05,678 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:42:05,686 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:42:05,695 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:42:05,697 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:42:08,707 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:42:11,787 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:42:11,798 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:42:11,802 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:42:11,806 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:51:14,283 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 12:53:29,387 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+Traceback (most recent call last):
+  File "/home/ray/Projects/python/printer_checker.py", line 41, in check_printer
+    socket.create_connection((ip_address, port), timeout)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/socket.py", line 868, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.13/socket.py", line 853, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+OSError: [Errno 113] No route to host
+2026-10-26 12:59:35,416 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:59:38,478 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 12:59:38,478 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:59:38,483 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:59:38,488 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:59:38,498 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:59:41,504 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:59:44,558 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 12:59:44,558 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:59:44,563 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:59:44,567 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:59:44,569 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:59:47,572 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:59:50,634 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 12:59:50,634 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:59:50,638 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:59:50,643 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:59:50,645 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 12:59:53,647 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 12:59:56,715 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 12:59:56,715 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 12:59:56,719 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 12:59:56,723 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 12:59:56,726 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:02:14,587 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:02:17,647 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:02:17,647 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:02:17,650 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:02:17,654 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:02:17,657 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:02:20,661 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:02:23,722 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:02:23,723 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:02:23,736 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:02:23,742 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:02:23,745 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:02:26,753 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:02:29,803 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:02:29,803 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:02:29,806 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:02:29,811 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:02:29,814 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:02:32,816 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:02:35,886 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:02:35,887 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:02:35,889 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:02:35,897 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:02:35,899 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:02:38,903 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:02:41,963 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:02:41,963 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:02:41,968 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:02:42,075 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:02:42,077 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:02:45,079 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:02:48,138 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:02:48,139 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:02:48,143 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:02:48,148 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:02:48,151 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:02:51,156 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:02:54,218 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:02:54,218 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:02:54,224 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:02:54,228 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:02:54,235 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:02:57,243 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:03:00,298 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:03:00,298 - ERROR - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:03:00,310 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:03:00,314 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:03:00,318 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:03:03,323 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:03:10,695 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:03:13,771 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:03:13,771 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:03:13,777 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:03:13,782 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:03:13,786 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:03:16,792 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:03:19,850 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:03:19,850 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:03:19,859 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:03:19,862 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:03:19,864 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:03:22,867 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:03:25,930 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:03:25,931 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:03:25,939 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:03:25,945 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:03:25,948 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:03:28,951 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:03:32,011 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:03:32,011 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:03:32,017 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:03:32,022 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:03:32,025 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:04:48,338 - ERROR - Error connecting to printer at 192.168.90.106: timed out
+2026-10-26 13:06:02,754 - ERROR - Error connecting to printer at 192.168.90.106: timed out
+2026-10-26 13:08:10,986 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:09:04,422 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:09:07,499 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:09:07,499 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:09:07,536 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:09:07,541 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:09:07,544 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:09:10,549 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:09:13,615 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:09:13,615 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:09:13,623 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:09:13,627 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:09:13,631 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:09:16,635 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:09:19,691 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:09:19,691 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:09:19,700 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:09:19,705 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:09:19,709 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:09:22,713 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:09:25,771 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:09:25,771 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:09:25,877 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:09:25,881 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:09:25,886 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:09:28,893 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:09:31,947 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:09:31,947 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:09:31,958 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:09:31,965 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:09:31,968 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:09:34,976 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:09:38,026 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:09:38,026 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:09:38,051 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:09:38,059 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:09:38,062 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:09:41,070 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:09:44,139 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:09:44,139 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:09:44,148 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:09:44,153 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:09:44,157 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:09:47,161 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:09:50,219 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:09:50,219 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:09:50,326 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:09:50,330 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:09:50,333 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:09:53,337 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:09:56,394 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:09:56,395 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:09:56,568 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:09:56,575 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:09:56,579 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:09:59,585 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:10:02,635 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:10:02,635 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:10:02,744 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:10:02,758 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:10:02,764 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:10:05,769 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:10:08,842 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:10:08,843 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:10:08,854 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:10:08,859 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:10:08,862 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:10:11,869 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:10:14,923 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:10:14,923 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:10:14,963 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:10:14,968 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:10:14,972 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:10:17,976 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:10:21,035 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:10:21,035 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:10:21,045 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:10:21,048 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:10:21,052 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:10:24,060 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:10:27,114 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:10:27,115 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:10:27,120 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:10:27,124 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:10:27,126 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:10:30,134 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:10:33,195 - ERROR - Error connecting to printer at 192.168.90.181: [Errno 113] No route to host
+2026-10-26 13:10:33,195 - WARNING - Printer at 192.168.90.181 (Legal) is connected: False
+2026-10-26 13:10:33,205 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:10:33,212 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:10:33,217 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:12:27,174 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:12:43,750 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:12:56,148 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:13:04,406 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:13:04,406 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:13:04,416 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:13:04,422 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:13:04,426 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:13:07,431 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:13:12,434 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:13:12,435 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:13:12,441 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:13:12,446 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:13:12,452 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:13:15,456 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:13:20,610 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:13:20,611 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:13:20,755 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:13:23,823 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:13:23,851 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:13:31,855 - ERROR - Error connecting to printer at 192.168.90.180: timed out
+2026-10-26 13:13:31,856 - WARNING - Printer at 192.168.90.180 (Cash Office) is connected: False
+2026-10-26 13:13:36,859 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:13:36,859 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:13:41,864 - ERROR - Error connecting to printer at 192.168.90.20: timed out
+2026-10-26 13:13:41,865 - WARNING - Printer at 192.168.90.20 (HR) is connected: False
+2026-10-26 13:13:43,104 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:13:48,106 - ERROR - Error connecting to printer at 192.168.90.125: timed out
+2026-10-26 13:13:48,107 - WARNING - Printer at 192.168.90.125 (Technical) is connected: False
+2026-10-26 13:13:53,169 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:13:58,171 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:13:58,172 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:14:03,177 - ERROR - Error connecting to printer at 192.168.90.20: timed out
+2026-10-26 13:14:03,178 - WARNING - Printer at 192.168.90.20 (HR) is connected: False
+2026-10-26 13:14:03,404 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:14:08,407 - ERROR - Error connecting to printer at 192.168.90.125: timed out
+2026-10-26 13:14:08,407 - WARNING - Printer at 192.168.90.125 (Technical) is connected: False
+2026-10-26 13:14:13,501 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:14:18,504 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:14:18,504 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:14:19,584 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:14:21,621 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:14:26,627 - ERROR - Error connecting to printer at 192.168.90.125: timed out
+2026-10-26 13:14:26,627 - WARNING - Printer at 192.168.90.125 (Technical) is connected: False
+2026-10-26 13:14:33,758 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:14:38,762 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:14:38,762 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:14:40,923 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:14:40,929 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:14:40,947 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:14:43,951 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:14:48,954 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:14:48,955 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:14:49,117 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:14:52,183 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:14:55,102 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:14:59,149 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:15:04,155 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:15:04,155 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:15:04,220 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:15:05,382 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:15:06,784 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:15:10,801 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:15:15,807 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:15:15,807 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:15:17,965 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:15:17,996 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:15:18,030 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:15:21,046 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:15:26,052 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:15:26,053 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:15:26,077 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:15:27,375 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:15:31,512 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:15:34,515 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:15:39,518 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:15:39,519 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:15:43,675 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:15:43,727 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:15:45,017 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:15:48,023 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:15:53,028 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:15:53,029 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:15:54,070 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:15:54,084 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:15:59,086 - ERROR - Error connecting to printer at 192.168.90.125: timed out
+2026-10-26 13:15:59,087 - WARNING - Printer at 192.168.90.125 (Technical) is connected: False
+2026-10-26 13:16:06,247 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:16:11,250 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:16:11,251 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:16:11,708 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:16:12,374 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:16:12,410 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:16:15,418 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:16:20,423 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:16:20,424 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:16:25,429 - ERROR - Error connecting to printer at 192.168.90.20: timed out
+2026-10-26 13:16:25,430 - WARNING - Printer at 192.168.90.20 (HR) is connected: False
+2026-10-26 13:16:27,952 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:16:32,958 - ERROR - Error connecting to printer at 192.168.90.125: timed out
+2026-10-26 13:16:32,959 - WARNING - Printer at 192.168.90.125 (Technical) is connected: False
+2026-10-26 13:16:40,965 - ERROR - Error connecting to printer at 192.168.90.180: timed out
+2026-10-26 13:16:40,965 - WARNING - Printer at 192.168.90.180 (Cash Office) is connected: False
+2026-10-26 13:16:45,971 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:16:45,971 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:16:50,294 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:16:50,338 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:16:50,509 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:16:58,514 - ERROR - Error connecting to printer at 192.168.90.180: timed out
+2026-10-26 13:16:58,515 - WARNING - Printer at 192.168.90.180 (Cash Office) is connected: False
+2026-10-26 13:17:01,579 - ERROR - Error connecting to printer at 192.168.90.24: [Errno 113] No route to host
+2026-10-26 13:17:01,579 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:17:06,584 - ERROR - Error connecting to printer at 192.168.90.20: timed out
+2026-10-26 13:17:06,584 - WARNING - Printer at 192.168.90.20 (HR) is connected: False
+2026-10-26 13:17:11,586 - ERROR - Error connecting to printer at 192.168.90.106: timed out
+2026-10-26 13:17:11,587 - WARNING - Printer at 192.168.90.106 (Environment) is connected: False
+2026-10-26 13:17:16,592 - ERROR - Error connecting to printer at 192.168.90.125: timed out
+2026-10-26 13:17:16,592 - WARNING - Printer at 192.168.90.125 (Technical) is connected: False
+2026-10-26 13:17:24,597 - ERROR - Error connecting to printer at 192.168.90.180: timed out
+2026-10-26 13:17:24,598 - WARNING - Printer at 192.168.90.180 (Cash Office) is connected: False
+2026-10-26 13:17:27,658 - ERROR - Error connecting to printer at 192.168.90.24: [Errno 113] No route to host
+2026-10-26 13:17:27,659 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:17:29,713 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:17:33,823 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:17:36,929 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:17:39,945 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:17:44,950 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:17:44,951 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:17:48,052 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:17:51,125 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:17:53,170 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:17:56,173 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:18:01,174 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:18:01,175 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:18:06,178 - ERROR - Error connecting to printer at 192.168.90.20: timed out
+2026-10-26 13:18:06,179 - WARNING - Printer at 192.168.90.20 (HR) is connected: False
+2026-10-26 13:18:06,187 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:18:06,197 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:18:12,310 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:18:17,315 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:18:17,315 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:18:17,321 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:18:21,432 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:18:21,456 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:18:27,767 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:18:32,773 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:18:32,773 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:18:32,984 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:18:36,042 - ERROR - Error connecting to printer at 192.168.90.106: [Errno 113] No route to host
+2026-10-26 13:18:36,043 - WARNING - Printer at 192.168.90.106 (Environment) is connected: False
+2026-10-26 13:18:39,115 - ERROR - Error connecting to printer at 192.168.90.125: [Errno 113] No route to host
+2026-10-26 13:18:39,115 - WARNING - Printer at 192.168.90.125 (Technical) is connected: False
+2026-10-26 13:18:45,508 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:18:50,510 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:18:50,511 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:18:51,607 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:18:51,673 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:18:52,713 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:18:55,754 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:19:00,758 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:19:00,759 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:19:00,790 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:19:03,222 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:19:06,825 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:19:09,841 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:19:14,847 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:19:14,847 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:19:14,967 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:19:14,993 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:19:15,001 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:19:18,048 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:19:23,054 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:19:23,054 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:19:23,141 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:19:23,182 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:19:23,261 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:19:26,273 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:19:31,279 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:19:31,279 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:19:31,283 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:19:31,304 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:19:31,332 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:19:34,376 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:19:39,379 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:19:39,379 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:19:40,403 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:19:41,433 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:19:41,471 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:19:44,502 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:19:49,506 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:19:49,507 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:19:49,516 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:19:49,522 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:19:49,527 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:19:52,556 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:19:57,558 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:19:57,559 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:19:57,568 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:19:57,676 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:19:57,679 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:20:01,723 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:20:06,726 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:20:06,727 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:20:06,742 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:20:06,774 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:20:10,863 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:20:13,872 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:20:18,878 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:20:18,878 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:20:18,884 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:20:18,889 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:20:18,891 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:20:21,895 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:20:26,898 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:20:26,899 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:20:27,924 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:20:27,939 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:20:28,037 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:20:31,049 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:20:36,054 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:20:36,055 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:20:36,060 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:20:36,070 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:20:36,079 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:20:39,089 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:20:44,095 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:20:44,095 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:20:45,120 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:20:45,125 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:20:45,129 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:20:48,141 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:20:53,144 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:20:53,144 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:20:54,193 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:20:55,221 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:20:55,224 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:20:59,468 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:21:04,474 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:21:04,474 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:21:04,490 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:21:04,536 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:21:04,581 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:21:07,600 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:21:12,602 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:21:12,603 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:21:17,606 - ERROR - Error connecting to printer at 192.168.90.20: timed out
+2026-10-26 13:21:17,606 - WARNING - Printer at 192.168.90.20 (HR) is connected: False
+2026-10-26 13:21:19,932 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:21:19,998 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:21:23,006 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-26 13:21:28,010 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-26 13:21:28,011 - WARNING - Printer at 192.168.90.24 (Legal) is connected: False
+2026-10-26 13:21:29,046 - INFO - Printer at 192.168.90.20 (HR) is connected: True
+2026-10-26 13:21:29,057 - INFO - Printer at 192.168.90.106 (Environment) is connected: True
+2026-10-26 13:21:29,065 - INFO - Printer at 192.168.90.125 (Technical) is connected: True
+2026-10-26 13:21:36,162 - INFO - Printer at 192.168.90.180 (Cash Office) is connected: True
+2026-10-27 09:42:00,290 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-28 16:49:01,635 - ERROR - Error connecting to printer at 192.168.90.24: timed out
+2026-10-28 16:49:05,191 - ERROR - Error connecting to printer at 192.168.90.20: [Errno 113] No route to host
+2026-11-04 17:19:37,684 - ERROR - Error connecting to printer at banana: [Errno -2] Name or service not known
+2026-11-04 17:32:56,573 - ERROR - Error connecting to printer at 192.2.1.3: timed out
