@@ -83,10 +83,14 @@ def select(selection):
         target_ip = input("\nEnter printer's IP address: ")
         valid = validate_ip(target_ip)
         if not valid:
-            print(f"\nThe ip({target_ip}) you have provided is not valid. Please try again.")
+            print(f"\nThe ip({target_ip}) you have provided is not valid. Please try again.\n")
+            interface()
         else:
             result = check_printer(target_ip)
-            print(f"\nPrinter at {target_ip} is connected: {result}")
+            if not result:
+                print(f"\n[ERROR]: The printer at ({target_ip}) is not connected or it is not a valid printer ip. Please check the ip and try again")
+            else:
+                print(f"\nPrinter at {target_ip} is connected: {result}")
     elif selection == "2":
         for name, ip in PRINTERS.items():
             result = check_printer(ip)
