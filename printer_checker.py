@@ -11,11 +11,12 @@ logging.basicConfig(
 )
 
 PRINTERS = {
-    "Cash Office": "192.168.90.180",
+    "Kiprono" : "192.168.90.248",
+    "Cash Office": "192.168.90.104",
     "Legal": "192.168.90.24",
-    "HR": "192.168.90.20",
-    "Environment": "192.168.90.106",
-    "Technical": "192.168.90.125"
+    "HR": "192.168.90.226",
+    "Environment": "192.168.90.214",
+    "Technical": "192.168.90.121"
 }
 
 def background_monitor():
@@ -69,35 +70,50 @@ def interface():
     print("[2] Check all listed printers")
     print("[3] Start background printer monitoring")
     print("[4] Coming soon...")
-    selection = input("\n: ")
-    select(selection)
+    selected = input("\n: ")
+    select(selected)
     # TODO: Create logic for user input selection for the options
     #        and if statements to handle the different options
 
-def select(selection):
+def select(selected):
     """
     Handles user input
     """
     # TODO: implement user input error handling
-    if selection == "1":
-        target_ip = input("\nEnter printer's IP address: ")
-        valid = validate_ip(target_ip)
-        if not valid:
-            print(f"\nThe ip({target_ip}) you have provided is not valid. Please try again.\n")
-            interface()
+    try:
+        selection = int(selected)
+        if 1 <= selection <= 4:
+            if selection == 1:
+                target_ip = input("\nEnter printer's IP address: ")
+                valid = validate_ip(target_ip)
+                if not valid:
+                    time.sleep(1)
+                    print(f"\nThe ip({target_ip}) you have provided is not valid. Please try again.\n")
+                    time.sleep(2)
+                    select(1)
+                else:
+                    result = check_printer(target_ip)
+                    if not result:
+                        print(f"\n[ERROR]: The printer at ({target_ip}) is not connected or it is not a valid printer ip. Please check the ip and try again.")
+                    else:
+                        print(f"\nPrinter at {target_ip} is connected: {result}")
+            elif selection == 2:
+                for name, ip in PRINTERS.items():
+                    result = check_printer(ip)
+                    print(f"\nPrinter at {ip}({name}) is connected: {result}")
+                    time.sleep(1)
+            elif selection == 3:
+                background_monitor()
+                pass
         else:
-            result = check_printer(target_ip)
-            if not result:
-                print(f"\n[ERROR]: The printer at ({target_ip}) is not connected or it is not a valid printer ip. Please check the ip and try again")
-            else:
-                print(f"\nPrinter at {target_ip} is connected: {result}")
-    elif selection == "2":
-        for name, ip in PRINTERS.items():
-            result = check_printer(ip)
-            print(f"\nPrinter at {ip} ({name}) is connected: {result}")
-    elif selection == "3":
-        background_monitor()
-        pass
+            print(f"Please enter a number between 1 and 4")
+            time.sleep(1)
+            interface()
+    except ValueError:
+        time.sleep(1)
+        print(f"[ERROR]: Please enter a valid integer ({selected}) is not valid\n")
+        time.sleep(2)
+        interface()
 
 if __name__ == "__main__":
     interface()
