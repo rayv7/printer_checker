@@ -11,12 +11,12 @@ logging.basicConfig(
 )
 
 PRINTERS = {
-    "Kiprono" : "192.168.90.248",
+    "Kiprono" : "192.168.93.248",
     "Cash Office": "192.168.90.104",
-    "Legal": "192.168.90.24",
-    "HR": "192.168.90.226",
-    "Environment": "192.168.90.214",
-    "Technical": "192.168.90.121"
+    "Legal": "192.168.93.24",
+    "HR": "192.168.93.226",
+    "Environment": "192.168.93.214",
+    "Technical": "192.168.93.121"
 }
 
 def background_monitor():

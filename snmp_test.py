@@ -21,3 +21,17 @@ def get_printer_info(ip_address):
     )
 
     errorIndication, errorStatus, errorIndex, varBinds = next(iterator)
+
+    if errorIndication:
+        print(f"[NETWORK ERROR]: {errorIndication}")
+    elif errorStatus:
+        print(f"[SNMP ERROR]: {errorStatus.prettyPrint()} at {errorIndex and varBinds[int(errorIndex) - 1][0] or '?'}")
+    else:
+        print("[SUCCESS]: Retrieved printer information:")
+        for varBind in varBinds:
+            print(f"Info: {varBind[0].prettyPrint()} = {varBind[1].prettyPrint()}")
+
+if __name__ == "__main__":
+    test_ip = "192.168.90.121"
+    print(f"Querying {test_ip} via SNMP...")
+    get_printer_info(test_ip)

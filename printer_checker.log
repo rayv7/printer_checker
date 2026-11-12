@@ -606,3 +606,14 @@ OSError: [Errno 113] No route to host
 2026-11-10 16:39:41,705 - ERROR - Error connecting to printer at 192.168.90.24: [Errno 113] No route to host
 2026-11-10 16:39:44,879 - ERROR - Error connecting to printer at 192.168.90.214: [Errno 111] Connection refused
 2026-11-10 16:39:55,887 - ERROR - Error connecting to printer at 192.168.90.121: timed out
+2026-11-12 18:11:19,957 - ERROR - Error connecting to printer at 192.168.90.248: [Errno 113] No route to host
+2026-11-12 18:11:26,229 - ERROR - Error connecting to printer at 192.168.90.104: [Errno 113] No route to host
+2026-11-12 18:11:30,293 - ERROR - Error connecting to printer at 192.168.90.24: [Errno 113] No route to host
+2026-11-12 18:11:34,773 - ERROR - Error connecting to printer at 192.168.90.226: [Errno 113] No route to host
+2026-11-12 18:11:38,841 - ERROR - Error connecting to printer at 192.168.90.214: [Errno 113] No route to host
+2026-11-12 18:11:42,901 - ERROR - Error connecting to printer at 192.168.90.121: [Errno 113] No route to host
+2026-11-12 18:15:30,037 - ERROR - Error connecting to printer at 192.168.93.248: [Errno 113] No route to host
+2026-11-12 18:15:34,101 - ERROR - Error connecting to printer at 192.168.93.104: [Errno 113] No route to host
+2026-11-12 18:15:38,169 - ERROR - Error connecting to printer at 192.168.93.24: [Errno 113] No route to host
+2026-11-12 18:15:42,229 - ERROR - Error connecting to printer at 192.168.93.226: [Errno 113] No route to host
+2026-11-12 18:15:46,293 - ERROR - Error connecting to printer at 192.168.93.214: [Errno 113] No route to host
