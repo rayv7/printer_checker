@@ -1,7 +1,12 @@
+import asyncio
 import logging
 import socket
 import time
 import ipaddress
+import traceback
+
+import printersList
+import snmp_test
 
 
 logging.basicConfig(
@@ -13,7 +18,7 @@ logging.basicConfig(
 PRINTERS = {
     "Kiprono" : "192.168.93.248",
     "Cash Office": "192.168.90.104",
-    "Legal": "192.168.93.24",
+    "Legal": "192.168.94.8",
     "HR": "192.168.93.226",
     "Environment": "192.168.93.214",
     "Technical": "192.168.93.121"
@@ -62,14 +67,15 @@ def interface():
     it's the first thing that pops up when the script is run.
     Welcomes the user and asks for the IP address of the printer to check.
     """
-    print("==============================================================")
+    print("=" * 60)
     print("<=================== RAY'S PRINTER CHECKER ===================>")
-    print("==============================================================")
+    print("=" * 60)
     print("\nWhat would you like to check today?")
     print("[1] Ping specific printer")
     print("[2] Check all listed printers")
     print("[3] Start background printer monitoring")
-    print("[4] Coming soon...")
+    print("[4] Check printer info")
+    print("[5] Check printer status")
     selected = input("\n: ")
     select(selected)
     # TODO: Create logic for user input selection for the options
@@ -82,7 +88,7 @@ def select(selected):
     # TODO: implement user input error handling
     try:
         selection = int(selected)
-        if 1 <= selection <= 4:
+        if 1 <= selection <= 5:
             if selection == 1:
                 target_ip = input("\nEnter printer's IP address: ")
                 valid = validate_ip(target_ip)
@@ -105,15 +111,59 @@ def select(selected):
             elif selection == 3:
                 background_monitor()
                 pass
+            elif selection == 4:
+                check_printer_info()
+            elif selection == 5:
+                target_ip = input("\nEnter printer's IP address: ")
+                valid = validate_ip(target_ip)
+                if not valid:
+                    time.sleep(1)
+                    print(f"\nThe ip({target_ip}) you have provided is not valid. Please try again.\n")
+                    time.sleep(2)
+                    select(5)
+                else:
+                    print(f"\nRetrieving printer status for {target_ip}...\n")
+                    asyncio.run(check_printer_status(target_ip))
         else:
-            print(f"Please enter a number between 1 and 4")
+            print(f"\nPlease enter a number between 1 and 5\n")
             time.sleep(1)
             interface()
+
     except ValueError:
+        traceback.print_exc()
         time.sleep(1)
         print(f"[ERROR]: Please enter a valid integer ({selected}) is not valid\n")
         time.sleep(2)
+   
         interface()
 
+def ping_specific_printer():
+    ''
+def check_all_printers():
+    ''
+def start_background_monitoring():
+    ''
+def check_printer_info():
+    printersList.get_printer_list()
+    target_ip = input(f"\nInput target printer or IP address(1 - {len(printersList.PRINTERS)}): ".format(len(printersList.PRINTERS)))
+    valid = validate_ip(target_ip)
+    if not valid:
+        try:
+            target_ip = printersList.map_to_printer(target_ip)
+            if target_ip is None:
+                check_printer_info()
+            else:
+                asyncio.run(snmp_test.get_printer_info(target_ip))
+        except ValueError as e:
+            print("\nTarget not found\n")
+            print(f"\nThe ip({target_ip}) you have provided is not valid. Please try again.\n")
+            print(f"[error]: {e}")
+            check_printer_info()
+    else:
+        print(f"\nRetrieving printer information for {target_ip}...\n")
+        asyncio.run(snmp_test.get_printer_info(target_ip))
+
+def check_printer_status():
+    ''
 if __name__ == "__main__":
     interface()
