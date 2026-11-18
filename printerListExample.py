@@ -1,3 +1,8 @@
+"""
+Rename to printersList.py and you're good to go
+This file contains a list of printers and their corresponding IP addresses.
+"""
+
 PRINTERS = {
     "CEO" : "192.168.93.24",
     "Cash Office": "192.168.90.16",

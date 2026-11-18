@@ -36,7 +36,7 @@ async def get_printer_info(ip_address):
             print(f"{key:<15}: {value}")
         print("=" * 34 + "\n")
 
-async def check_printer_status(ip_address):
+async def get_printer_status(ip_address):
     """
     Checks the printer status using SNMP from the specified IP address.
     """
@@ -98,4 +98,5 @@ def parse_sys_descr(raw_text):
 if __name__ == "__main__":
     test_ip = "192.168.93.121"  
     print(f"Querying {test_ip} via SNMP...\n")
-    asyncio.run(check_printer_status(test_ip))
+    asyncio.run(get_printer_status(test_ip))
+# TODO: Add back buttons
